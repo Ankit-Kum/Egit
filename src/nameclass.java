@@ -3,7 +3,8 @@ public class nameclass
 {
 	public void disply()
 	{
-		System.out.println("i am varsha");
+		System.out.println("work assign");
+		System.out.println("changes");
 	}
 
 }
